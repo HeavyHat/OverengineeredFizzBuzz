@@ -1,0 +1,5 @@
+#Overengineered FizzBuzz
+
+The purpose of this project is simply to represent the Fizz Buzz problem in a more OOP fashion. While this is unlikely to be used in the wild, it provide an excellent overview of a few design patterns and shows the extensability of the system when programming in an OO fashion.
+
+Fizz Buzz can be extended in this example to include any number of types of answers. The premise is that a Factory is used to select an answer builder where the answer builder provide exteniability in terms of how to answer the question. The default being the integer builder which will build an answer which simply print the integer. Whereas one could make it so that for every number in the fibonacci sequence print when the number is also a triangular number. This would simply require the adjustment of a few lines of code.
