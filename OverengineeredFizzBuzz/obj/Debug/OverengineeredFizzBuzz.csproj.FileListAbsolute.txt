@@ -1,0 +1,6 @@
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\OverengineeredFizzBuzz\OverengineeredFizzBuzz\bin\Debug\OverengineeredFizzBuzz.exe.config
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\OverengineeredFizzBuzz\OverengineeredFizzBuzz\obj\Debug\OverengineeredFizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\OverengineeredFizzBuzz\OverengineeredFizzBuzz\bin\Debug\OverengineeredFizzBuzz.exe
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\OverengineeredFizzBuzz\OverengineeredFizzBuzz\bin\Debug\OverengineeredFizzBuzz.pdb
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\OverengineeredFizzBuzz\OverengineeredFizzBuzz\obj\Debug\OverengineeredFizzBuzz.exe
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\OverengineeredFizzBuzz\OverengineeredFizzBuzz\obj\Debug\OverengineeredFizzBuzz.pdb
